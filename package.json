@@ -48,7 +48,7 @@
     "@types/node": "18.15.3",
     "@vitejs/plugin-vue": "4.1.0",
     "@vitest/coverage-c8": "0.29.3",
-    "@vue/compiler-dom": "3.2.47",
+    "@vue/compiler-dom": "3.3.12",
     "@vue/eslint-config-prettier": "7.1.0",
     "@vue/eslint-config-typescript": "11.0.2",
     "@vue/server-renderer": "3.2.47",
